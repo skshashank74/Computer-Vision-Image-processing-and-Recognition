@@ -37,7 +37,7 @@ Extracting the answer from OMR sheet can be divided into 2 parts:
 ### Getting the horizontal and vertical lines (cordinates of the first question)  
 Vertical lines           |  Horizontal lines
 :-------------------------:|:-------------------------:
-![Retrieved Vertical Lines](https://github.iu.edu/cs-b657-sp2022/sallada-sholla-sk128-a1/blob/main/genp8.png)  |  ![Retrieved Horizontal Lines](https://github.iu.edu/cs-b657-sp2022/sallada-sholla-sk128-a1/blob/main/genp9.png)
+![Retrieved Vertical Lines](https://github.com/skshashank74/Computer-Vision-Image-processing-and-Recognition/blob/main/genp8.png)  |  ![Retrieved Horizontal Lines](https://github.com/skshashank74/Computer-Vision-Image-processing-and-Recognition/blob/main/genp9.png)
  
 
 
@@ -55,7 +55,7 @@ python3 grade.py marked.jpg output.txt
 
 a-27 accuracy           |  a-3 accuracy
 :-------------------------:|:-------------------------:
-![a-27 accuracy](https://github.iu.edu/cs-b657-sp2022/sallada-sholla-sk128-a1/blob/main/a-27_accuracy.jpg)  |  ![a-3 accuracy](https://github.iu.edu/cs-b657-sp2022/sallada-sholla-sk128-a1/blob/main/a_3_accuracy.jpg)
+![a-27 accuracy](https://github.com/skshashank74/Computer-Vision-Image-processing-and-Recognition/blob/main/a-27_accuracy.jpg)  |  ![a-3 accuracy](https://github.com/skshashank74/Computer-Vision-Image-processing-and-Recognition/blob/main/a_3_accuracy.jpg)
 
 ### Alternate approach
 
