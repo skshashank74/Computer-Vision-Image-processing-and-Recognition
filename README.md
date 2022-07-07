@@ -73,12 +73,6 @@ With this approach, the edges detected in the input image is transformed into pa
 
 With detected horizontal and vertical lines, intersection of the boxes are found.
 
-#### Results:
-
-![](results/horizontal_hough_lines.jpg)
-
-![](results/vertical_hough_lines.jpg)
-
 
 ### TODO
 
